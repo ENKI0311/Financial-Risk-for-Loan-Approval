@@ -58,7 +58,7 @@ The dataset includes diverse features, such as demographic information, credit h
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Financial-Risk-for-Loan-Approval.git
+git clone https://github.com/ENKI0311/Financial-Risk-for-Loan-Approval.git
 cd Financial-Risk-for-Loan-Approval
 ```
 
